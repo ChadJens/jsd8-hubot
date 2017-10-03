@@ -54,6 +54,16 @@ How to set environment variables will be specific to your operating system.
 Rather than recreate the various methods and best practices in achieving this,
 it's suggested that you search for a dedicated guide focused on your OS.
 
+### How to use grammar-bot
+
+When you mis-use "there" or "it's," grammar-bot will correct you and point out your error.
+Be careful, though. grammar-bot isn't actually that great at grammar.
+
+And grammar-bot has really taken a shine to its programmer. Ask him about Chad.
+
+Lastly, please do not bother grammar-bot with personal pings. He's very busy.
+
+
 ### Scripting
 
 An example script is included at `scripts/example.coffee`, so check it out to
